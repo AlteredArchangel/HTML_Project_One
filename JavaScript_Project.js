@@ -10,7 +10,7 @@ const questions = [
         optionC: "Matchstick",
         optionD: "Guitar pick",
         optionE: "banjo string",
-        correctOption: "Guitar pick"
+        correctOption: "optionD"
     },
 
     {
@@ -20,7 +20,7 @@ const questions = [
         optionC: "2",
         optionD: "8",
         optionE: "4",
-        correctOption: "4"
+        correctOption: "optionE"
     },
 
     {
@@ -30,7 +30,7 @@ const questions = [
         optionC: "Bass xylophone",
         optionD: "Txalaparta",
         optionE: "mobile phone",
-        correctOption: "Bass xylophone"
+        correctOption: "optionC"
     },
 
     {
@@ -40,7 +40,118 @@ const questions = [
         optionC: "Johnny Cash",
         optionD: "Bob Dylan",
         optionE: "Elvis Presly",
-        correctOption: "Johnny Cash"
+        correctOption: "optionC"
+    },
+
+    {
+        question: "Which year did Elvis have his first UK song at No.1?",
+        optionA: "The 1950's",
+        optionB: "The 1970's",
+        optionC: "The 1940's",
+        optionD: "The 1930's",
+        optionE: "The 1960's",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "Which singer has had a billboard No.1 hit in each of the last four decades?",
+        optionA: "Justin Bieber",
+        optionB: "Ariana Grande",
+        optionC: "Mariah Carey",
+        optionD: "Shawn Mendez",
+        optionE: "Miley Cyrus",
+        correctOption: "optionC"
+    },
+
+    {
+        question: "What was Freddie Mercury's real name?",
+        optionA: "Freddie Saturn",
+        optionB: "Frederick Arnold",
+        optionC: "Ahmed Bulsara",
+        optionD: "Farrokh Bulsara",
+        optionE: "Christopher Mercury",
+        correctOption: "optionD"
+    },
+
+    {
+        question: "What is the minimun number of band members for a band to be considered a Big Band?",
+        optionA: "10",
+        optionB: "12",
+        optionC: "14",
+        optionD: "21",
+        optionE: "11",
+        correctOption: "optionA"
+    },
+
+    {
+        question: "Who was the oldest member of The Jackson 5?",
+        optionA: "Tito Jackson",
+        optionB: "Jermaine Jackson",
+        optionC: "Marlon Jackson",
+        optionD: "Micheal Jackson",
+        optionE: "Jackie Jackson",
+        correctOption: "optionE"
+    },
+
+    {
+        question: "What is the note that an orchestra tunes to?",
+        optionA: "B",
+        optionB: "A",
+        optionC: "C",
+        optionD: "E",
+        optionE: "D",
+        correctOption: "optionB"
+    },
+
+    {
+        question: "How many musicians are required to make up a nonet?",
+        optionA: "45",
+        optionB: "9",
+        optionC: "12",
+        optionD: "16",
+        optionE: "4",
+        correctOption: "optionB"
+    },
+
+    {
+        question: "Which classic band recorded the following songs: 'I Wanna Hold Your Hand 'and 'Hey Jude?",
+        optionA: "The Beatles",
+        optionB: "Led Zeppelin",
+        optionC: "Gorillaz",
+        optionD: "Rush",
+        optionE: "Arctic Monkeys",
+        correctOption: "optionA"
+    },
+
+
+    {
+        question: "What was the name of Micheal Jackson's pet monkey?",
+        optionA: "Champagne",
+        optionB: "Fizz",
+        optionC: "Shampoo",
+        optionD: "Charles",
+        optionE: "Bubbles",
+        correctOption: "optionE"
+    },
+
+    {
+        question: "Beyonce was the lead singer of which girl group in the late 1990's?",
+        optionA: "Spice Girls",
+        optionB: "SWV",
+        optionC: "Hush Hush",
+        optionD: "TLC",
+        optionE: "Destiny's Child",
+        correctOption: "optionE"
+    },
+
+    {
+        question: "Which of the following musical terms is used to describe music that is soft in volume?",
+        optionA: "Fortisimo",
+        optionB: "Legato",
+        optionC: "Allegro",
+        optionD: "Piano",
+        optionE: "Forte",
+        correctOption: "optionD"
     },
 
     {
@@ -50,7 +161,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionB"
     },
 
     {
@@ -60,7 +171,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionC"
     },
 
     {
@@ -70,7 +181,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionA"
     },
 
     {
@@ -80,7 +191,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionA"
     },
 
     {
@@ -90,17 +201,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: " ",
-        optionC: " ",
-        optionD: " ",
-        optionE: "",
-        correctOption: ""
+        correctOption: "optionE"
     },
 
     {
@@ -110,28 +211,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: " ",
-        optionB: " ",
-        optionC: " ",
-        optionD: " ",
-        optionE: "",
-        correctOption: ""
-    },
-
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
+        correctOption: "optionB"
     },
 
     {
@@ -141,87 +221,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: " ",
-        optionB: " ",
-        optionC: "  ",
-        optionD: " ",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: ""
+        correctOption: "optionD"
     },
 
     {
@@ -231,7 +231,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionC"
     },
 
     {
@@ -241,7 +241,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionE"
     },
 
     {
@@ -251,7 +251,7 @@ const questions = [
         optionC: "",
         optionD: "",
         optionE: "",
-        correctOption: ""
+        correctOption: "optionA"
     }
 
 ]
