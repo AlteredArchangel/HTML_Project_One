@@ -1,6 +1,10 @@
 // Quiz Questions
 //Character should be the Musical Muse, She will quiz you on your musical knowledge
 
+let canvas = null
+let context = null
+
+
 
 const questions = [
     {
