@@ -118,7 +118,7 @@ const questions = [
     },
 
     {
-        question: "Which classic band recorded the following songs: 'I Wanna Hold Your Hand 'and 'Hey Jude?",
+        question: "Which classic band recorded the following songs: 'I Wanna Hold Your Hand 'and 'Hey Jude'?",
         optionA: "The Beatles",
         optionB: "Led Zeppelin",
         optionC: "Gorillaz",
@@ -159,105 +159,56 @@ const questions = [
     },
 
     {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
+        question: "Which Micheal Jackson song did the lyrics 'You start to freeze as horror looks you right between the eyes' come from?",
+        optionA: "BAD",
+        optionB: "Thriller",
+        optionC: "Wanna Be Startin' Somethin'",
+        optionD: "Leave Me Alone",
+        optionE: "The Way You Make Me Feel",
         correctOption: "optionB"
     },
 
     {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
+        question: "Which ABBA song wasn't featured in the first Mamma Mia film?",
+        optionA: "Chiquitita",
+        optionB: "Honey Honey",
+        optionC: "Fernando",
+        optionD: "Super Trouper",
+        optionE: "SOS",
         correctOption: "optionC"
     },
 
     {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
+        question: "Which album has sold the most copies of all time worldwide?",
+        optionA: "Micheal Jackson - Thriller",
+        optionB: "Fleetwood Mac - Rumours",
+        optionC: "Pink Floyd - Dark Side of the Moon",
+        optionD: "Celine Dion - Falling Into You",
+        optionE: "Prince - Sign O' the Times",
         correctOption: "optionA"
     },
 
     {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
+        question: "Which famous rock band has the hit song 'Hotel California'?",
+        optionA: "The Eagles",
+        optionB: "Aerosmith",
+        optionC: "AC/DC",
+        optionD: "The Rolling Stones",
+        optionE: "Creedance Clearwater Revival",
         correctOption: "optionA"
     },
 
     {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
+        question: "At what age did Wolfgang Amadeus Mozart begin composing music?",
+        optionA: "Seven",
+        optionB: "Ten",
+        optionC: "Six",
+        optionD: "thirteen",
+        optionE: "Five",
         correctOption: "optionE"
     },
 
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: "optionB"
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: "optionD"
-    },
-
-    {
-        question: "?",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: "optionC"
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: "optionE"
-    },
-
-    {
-        question: "",
-        optionA: "",
-        optionB: "",
-        optionC: "",
-        optionD: "",
-        optionE: "",
-        correctOption: "optionA"
-    }
-
+   
 ]
 
 
