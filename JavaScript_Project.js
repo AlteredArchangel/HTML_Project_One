@@ -5,8 +5,25 @@ let canvas = null
 let context = null
 
 
+{ 
+    document.getElementById("body").style.display = "none"; 
+} 
 
-const questions = [
+
+window.addEventListener("keyup", ev => {
+    if (ev.keyCode === 38) {
+      
+
+      document.getElementById("startScreen").style.display = "none";
+
+      document.getElementById("body").style.display = "block";
+
+
+
+    }
+  });
+
+  const questions = [
     {
         question: "What is a spectrum?",
         optionA: "Stick",
