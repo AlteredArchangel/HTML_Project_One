@@ -21,7 +21,11 @@ window.addEventListener("keyup", ev => {
 
 
     }
-  });
+  
+});
+
+
+
 
   const questions = [
     {
@@ -351,19 +355,19 @@ function handleEndGame() {
 
     // condition check for player remark and remark color
     if (playerScore <= 3) {
-        remark = "Do you even care? Try Again."
+        remark = "Do you even care? Guess not. Enjoy Purgatory."
         remarkColor = "red"
     }
     else if (playerScore >= 4 && playerScore < 7) {
-        remark = "Disappointing, You can do better."
+        remark = "Disappointing, I'll spare you the pain of dying slowly."
         remarkColor = "orange"
     }
     else if (playerScore >= 7) {
-        remark = "Nice Job, Keep going and you'll be a master yet!"
+        remark = "Well done, You may not have beaten me, but I'll give you a chance to run!"
         remarkColor = "yellow"
     }
     else if (playerScore = 10) {
-        remark = "You've done it! You have beaten my challenge!"
+        remark = "You've done it! You have beaten my challenge! I congratulate you on your victory!"
         remarkColor = "green"
     }
 
