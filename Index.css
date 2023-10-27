@@ -15,8 +15,8 @@ body {
     margin: auto;
     margin-top: 50px;
     position: relative;
-    width: 300px;
-    height: 200px;
+    width: 400px;
+    height: 250px;
     background-color: whitesmoke;
     color: #333;
     text-align: center;
@@ -59,7 +59,9 @@ body {
 
   #startScreen p2 {
     font-weight: bold;
+    font-size:20px;
   }
+
   
   #startScreen span {
     position: relative;
